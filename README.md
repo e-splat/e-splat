@@ -7,4 +7,4 @@
 
 </section>
 
-[![DineDeft](https://img.shields.io/discord/844930646819209236?color=%230352fa&logo=DineDeft&style=flat-square)](https://dsc.gg/dinedeft
+[![DineDeft](https://img.shields.io/discord/844930646819209236?color=%230352fa&logo=DineDeft&style=flat-square)](https://dsc.gg/dinedeft)
