@@ -8,3 +8,4 @@
 </section>
 
 [![DineDeft](https://img.shields.io/discord/844930646819209236?color=%230352fa&logo=DineDeft&style=flat-square)](https://dsc.gg/dinedeft)
+[![biotg](https://img.shields.io/badge/dynamic/json?color=blue&logo=telegram&label=Telegram&query=result&suffix=%20subscribers&url=https%3A%2F%2Fapi.telegram.org%2Fbot1861542114%3AAAFEySytSsmFuQ4BslQv22XfBh636O36eNs%2FgetChatMemberCount%3Fchat_id%3D-1001251899550)](https://t.me/e_splat_47bio)
