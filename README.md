@@ -8,4 +8,4 @@
 </section>
 
 [![DineDeft](https://img.shields.io/discord/844930646819209236?color=%230352fa&logo=DineDeft&style=flat-square)](https://dsc.gg/dinedeft)
-[![worldedititemsdownloads](https://img.shields.io/github/downloads/e-splat/worldedititems/total?label=WorldEditItems&style=flat-square)](https://github.com/e-splat/worldedititems)
+[![worldedititemsdownloads](https://img.shields.io/github/downloads/e-splat/worldedititems/total?color=%23363640&label=WorldEditItems&logoColor=%23363636&style=flat-square)](https://github.com/e-splat/worldedititems)
